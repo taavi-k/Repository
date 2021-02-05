@@ -1,5 +1,5 @@
 a = 1
-x = 1
+b = 1
 
-if a == x:
+if a == b:
     print("test")
